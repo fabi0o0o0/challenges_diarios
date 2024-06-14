@@ -13,3 +13,4 @@ def EsVocal(cadena):
 palabra = input("Ingrese una palabra: ").lower()
 numero_vocales = EsVocal(palabra)
 print(f"El número de vocales en la palabra es: {numero_vocales}")
+
